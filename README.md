@@ -2,7 +2,7 @@
 
 **Design and Analysis of Algorithms. HW 6. Fundamentals of parallel computing and the MapReduce model**
 
-# Завдання 2
+# Завдання
 
 Напишіть Python-скрипт, який завантажує текст із заданої URL-адреси, аналізує частоту використання слів у тексті за допомогою парадигми MapReduce і візуалізує топ-слова з найвищою частотою використання у тексті.
 
